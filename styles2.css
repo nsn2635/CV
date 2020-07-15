@@ -122,7 +122,7 @@ hr{
 }
 .clear{
   clear: right;
-  margin-top:50px;
+  bottom:75px;
   position:relative;
 
 }
